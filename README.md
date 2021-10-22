@@ -9,7 +9,13 @@ Tianyang/Tianyang is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-
+# Class Titles
+- Automating Business processes
+- Found of information management
+- Enterprise information management
+- Data mining and visualization
+- Project Management
+- Data Ware and Bus Intell
 
 
 
