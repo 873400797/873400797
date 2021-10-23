@@ -1,7 +1,7 @@
 # About Me
 - 👋 Hi, I’m @Tianyang Yang. I am an international student from Chengdu China.
 - 📫 Now I am a Business Analytics major senior student of University of Denver.
-- 👀 I’m interested in Learning business analytics, playing video games.
+- 👀 I’m interested in Learning business analytics, playing video games like League of Legend.Also I like watching animes.
 - 🌱 I’m currently learning Data Warehousing and Project Management.
 - 📫 How to reach me Tianyang.Yang@du.edu.
 
