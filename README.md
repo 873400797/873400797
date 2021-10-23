@@ -41,13 +41,13 @@ Visio Studio   /   Excel     /  Tableau     /  JMP      /   SQL Server    /   Py
  -Tableau and JMP project about 2019 State's GDP
 ![Tableau](Tableau.png)
 ![JMP](JMP.png)
-For this project, by using Tableau and JMP skills, I made charts and tables to analyze the performance of each predicting model in forecasting the State's GDP and Wealthy.
+For this project, by using Tableau and JMP skills, my friend Yicheng and I made charts and tables to analyze the performance of each predicting model in forecasting the State's GDP and Wealthy.
 
  -Database build Script and Visual Studio Forms and Report
 ![Buildscript](Buildscript.png)
 ![Form](Form.png)
 ![Report](Report.png)
-For this project, I wrote build script code for my project SkiResort which is the process of measuring the sales for the ski classes of the 3 resorts. And I built the forms and reports in Vissio Studio about the project.
+For this project, I wrote build script code to build database for my project SkiResort which is the process of measuring the sales for the ski classes of the 3 resorts. And I built the forms and reports to see the quarerly sales and registration information of resorts in Visual Studio.
 <!---
 873400797/873400797 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
